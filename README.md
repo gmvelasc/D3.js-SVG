@@ -1,3 +1,4 @@
+/**********
 # @Gmvelasc
 # D3.js-SVG
 # 1. Using shapes.html/.js shows an output of a blue canvas with the text "CMPM35 2020" it is also cute
@@ -8,3 +9,4 @@
 # glasses/contacts in one day. During COVID, I have been giving a lot of thought and precaution about the relationship
 # of interaction between my hands and my contacts/glasses whatever the case may be. 
 # I have uploaded several data points into the graph for row 1. 
+***********/
