@@ -3,7 +3,7 @@ console.log(d3)
 let sel = d3.select('#chart')
 let xScale = d3.scaleLinear()
   .domain([0,8])
-  .range([0,100]);
+  .range([0,13]);
 
 sel.append('g')
   sel.selectAll('rect')
