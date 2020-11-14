@@ -7,7 +7,7 @@ let xScale = d3.scaleLinear()
 
 sel.append('g')
   sel.selectAll('rect')
-  .data([[1,0], [2,12.01],[3,10]])
+  .data([[1,0],[2,12.01],[3,0],[4,0],[5,12.39],[6,0],[7,0],[8,8.47]])
   .enter()
     .append('rect')
     .text('row 1')
