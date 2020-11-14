@@ -16,7 +16,7 @@ sel.append('g')
     .attr('y', d => 100 - d[1])
     .attr('width', 5)
     .attr('height', d => d[1])
-    .style('fill', 'black')
+    .style('fill', 'blue')
 
 sel.append('g')
   .attr('transform', 'translate(10, 100)')
